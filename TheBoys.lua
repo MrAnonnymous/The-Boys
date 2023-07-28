@@ -1,3 +1,5 @@
+loadstring(game:GetObjects("rbxassetid://5209815302")[1].Source)()
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 
 wait(5)
